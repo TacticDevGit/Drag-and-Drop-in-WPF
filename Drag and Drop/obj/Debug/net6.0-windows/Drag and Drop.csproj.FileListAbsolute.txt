@@ -1,0 +1,24 @@
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\bin\Debug\net6.0-windows\Drag and Drop.exe
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\bin\Debug\net6.0-windows\Drag and Drop.dll
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\bin\Debug\net6.0-windows\Drag and Drop.deps.json
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\bin\Debug\net6.0-windows\Drag and Drop.runtimeconfig.json
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\bin\Debug\net6.0-windows\ref\Drag and Drop.dll
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\bin\Debug\net6.0-windows\Drag and Drop.pdb
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\DisplayTile.g.cs
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop_MarkupCompile.cache
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop_MarkupCompile.lref
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\DisplayTile.baml
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop.g.resources
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop.dll
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\ref\Drag and Drop.dll
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop.pdb
+C:\Users\Jamie\source\repos\Drag and Drop\Drag and Drop\obj\Debug\net6.0-windows\Drag and Drop.genruntimeconfig.cache
